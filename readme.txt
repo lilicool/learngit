@@ -1,5 +1,5 @@
   git is a version control system
   git is free software
-  i love git
-  git is a distrubuted versin control system
+  i am very love git
+  git is a easy versin control system
   git is free software
